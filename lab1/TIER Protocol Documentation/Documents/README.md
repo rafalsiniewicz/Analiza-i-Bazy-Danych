@@ -5,3 +5,9 @@ plik oryginalny od razu nadaje sie do przetwarzania.
 ###### Przetwarzanie danych
 Przetwarzanie danych jest dokonywane w pliku main.py znajdujacym sie w katalogu Command Files
 
+
+
+###### Struktura katalogow
+
+
+
