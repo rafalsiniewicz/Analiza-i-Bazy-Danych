@@ -3,5 +3,5 @@ Importowalny plik drinks.csv nie musial byc w zaden sposob modyfikowany, gdyz ro
 plik oryginalny od razu nadaje sie do przetwarzania.
 
 ###### Przetwarzanie danych
-Przetwarzanie danych jest dokonywane w pliku main.py
+Przetwarzanie danych jest dokonywane w pliku main.py znajdujacym sie w katalogu Command Files
 
