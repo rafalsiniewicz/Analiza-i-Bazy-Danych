@@ -11,3 +11,9 @@ Przetwarzanie danych jest dokonywane w pliku main.py znajdujacym sie w katalogu 
 
 
 
+
+
+###### Instrukcja
+
+
+
