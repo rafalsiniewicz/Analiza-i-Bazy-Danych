@@ -1,1 +1,7 @@
+Data Appendix
 
+Plik result_drinks.csv jest przetworzonym plikiem drinks.csv zgodnie z zasadami tidy data
+Składa sie z kolumn:
+- country
+- type
+- litres
