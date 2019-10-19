@@ -1,773 +1,773 @@
-,country,type,litres
-0,Afghanistan,beer_servings,0.0
-1,Albania,beer_servings,89.0
-2,Algeria,beer_servings,25.0
-3,Andorra,beer_servings,245.0
-4,Angola,beer_servings,217.0
-5,Antigua & Barbuda,beer_servings,102.0
-6,Argentina,beer_servings,193.0
-7,Armenia,beer_servings,21.0
-8,Australia,beer_servings,261.0
-9,Austria,beer_servings,279.0
-10,Azerbaijan,beer_servings,21.0
-11,Bahamas,beer_servings,122.0
-12,Bahrain,beer_servings,42.0
-13,Bangladesh,beer_servings,0.0
-14,Barbados,beer_servings,143.0
-15,Belarus,beer_servings,142.0
-16,Belgium,beer_servings,295.0
-17,Belize,beer_servings,263.0
-18,Benin,beer_servings,34.0
-19,Bhutan,beer_servings,23.0
-20,Bolivia,beer_servings,167.0
-21,Bosnia-Herzegovina,beer_servings,76.0
-22,Botswana,beer_servings,173.0
-23,Brazil,beer_servings,245.0
-24,Brunei,beer_servings,31.0
-25,Bulgaria,beer_servings,231.0
-26,Burkina Faso,beer_servings,25.0
-27,Burundi,beer_servings,88.0
-28,Cote d'Ivoire,beer_servings,37.0
-29,Cabo Verde,beer_servings,144.0
-30,Cambodia,beer_servings,57.0
-31,Cameroon,beer_servings,147.0
-32,Canada,beer_servings,240.0
-33,Central African Republic,beer_servings,17.0
-34,Chad,beer_servings,15.0
-35,Chile,beer_servings,130.0
-36,China,beer_servings,79.0
-37,Colombia,beer_servings,159.0
-38,Comoros,beer_servings,1.0
-39,Congo,beer_servings,76.0
-40,Cook Islands,beer_servings,0.0
-41,Costa Rica,beer_servings,149.0
-42,Croatia,beer_servings,230.0
-43,Cuba,beer_servings,93.0
-44,Cyprus,beer_servings,192.0
-45,Czech Republic,beer_servings,361.0
-46,North Korea,beer_servings,0.0
-47,DR Congo,beer_servings,32.0
-48,Denmark,beer_servings,224.0
-49,Djibouti,beer_servings,15.0
-50,Dominica,beer_servings,52.0
-51,Dominican Republic,beer_servings,193.0
-52,Ecuador,beer_servings,162.0
-53,Egypt,beer_servings,6.0
-54,El Salvador,beer_servings,52.0
-55,Equatorial Guinea,beer_servings,92.0
-56,Eritrea,beer_servings,18.0
-57,Estonia,beer_servings,224.0
-58,Ethiopia,beer_servings,20.0
-59,Fiji,beer_servings,77.0
-60,Finland,beer_servings,263.0
-61,France,beer_servings,127.0
-62,Gabon,beer_servings,347.0
-63,Gambia,beer_servings,8.0
-64,Georgia,beer_servings,52.0
-65,Germany,beer_servings,346.0
-66,Ghana,beer_servings,31.0
-67,Greece,beer_servings,133.0
-68,Grenada,beer_servings,199.0
-69,Guatemala,beer_servings,53.0
-70,Guinea,beer_servings,9.0
-71,Guinea-Bissau,beer_servings,28.0
-72,Guyana,beer_servings,93.0
-73,Haiti,beer_servings,1.0
-74,Honduras,beer_servings,69.0
-75,Hungary,beer_servings,234.0
-76,Iceland,beer_servings,233.0
-77,India,beer_servings,9.0
-78,Indonesia,beer_servings,5.0
-79,Iran,beer_servings,0.0
-80,Iraq,beer_servings,9.0
-81,Ireland,beer_servings,313.0
-82,Israel,beer_servings,63.0
-83,Italy,beer_servings,85.0
-84,Jamaica,beer_servings,82.0
-85,Japan,beer_servings,77.0
-86,Jordan,beer_servings,6.0
-87,Kazakhstan,beer_servings,124.0
-88,Kenya,beer_servings,58.0
-89,Kiribati,beer_servings,21.0
-90,Kuwait,beer_servings,0.0
-91,Kyrgyzstan,beer_servings,31.0
-92,Laos,beer_servings,62.0
-93,Latvia,beer_servings,281.0
-94,Lebanon,beer_servings,20.0
-95,Lesotho,beer_servings,82.0
-96,Liberia,beer_servings,19.0
-97,Libya,beer_servings,0.0
-98,Lithuania,beer_servings,343.0
-99,Luxembourg,beer_servings,236.0
-100,Madagascar,beer_servings,26.0
-101,Malawi,beer_servings,8.0
-102,Malaysia,beer_servings,13.0
-103,Maldives,beer_servings,0.0
-104,Mali,beer_servings,5.0
-105,Malta,beer_servings,149.0
-106,Marshall Islands,beer_servings,0.0
-107,Mauritania,beer_servings,0.0
-108,Mauritius,beer_servings,98.0
-109,Mexico,beer_servings,238.0
-110,Micronesia,beer_servings,62.0
-111,Monaco,beer_servings,0.0
-112,Mongolia,beer_servings,77.0
-113,Montenegro,beer_servings,31.0
-114,Morocco,beer_servings,12.0
-115,Mozambique,beer_servings,47.0
-116,Myanmar,beer_servings,5.0
-117,Namibia,beer_servings,376.0
-118,Nauru,beer_servings,49.0
-119,Nepal,beer_servings,5.0
-120,Netherlands,beer_servings,251.0
-121,New Zealand,beer_servings,203.0
-122,Nicaragua,beer_servings,78.0
-123,Niger,beer_servings,3.0
-124,Nigeria,beer_servings,42.0
-125,Niue,beer_servings,188.0
-126,Norway,beer_servings,169.0
-127,Oman,beer_servings,22.0
-128,Pakistan,beer_servings,0.0
-129,Palau,beer_servings,306.0
-130,Panama,beer_servings,285.0
-131,Papua New Guinea,beer_servings,44.0
-132,Paraguay,beer_servings,213.0
-133,Peru,beer_servings,163.0
-134,Philippines,beer_servings,71.0
-135,Poland,beer_servings,343.0
-136,Portugal,beer_servings,194.0
-137,Qatar,beer_servings,1.0
-138,South Korea,beer_servings,140.0
-139,Moldova,beer_servings,109.0
-140,Romania,beer_servings,297.0
-141,Russian Federation,beer_servings,247.0
-142,Rwanda,beer_servings,43.0
-143,St. Kitts & Nevis,beer_servings,194.0
-144,St. Lucia,beer_servings,171.0
-145,St. Vincent & the Grenadines,beer_servings,120.0
-146,Samoa,beer_servings,105.0
-147,San Marino,beer_servings,0.0
-148,Sao Tome & Principe,beer_servings,56.0
-149,Saudi Arabia,beer_servings,0.0
-150,Senegal,beer_servings,9.0
-151,Serbia,beer_servings,283.0
-152,Seychelles,beer_servings,157.0
-153,Sierra Leone,beer_servings,25.0
-154,Singapore,beer_servings,60.0
-155,Slovakia,beer_servings,196.0
-156,Slovenia,beer_servings,270.0
-157,Solomon Islands,beer_servings,56.0
-158,Somalia,beer_servings,0.0
-159,South Africa,beer_servings,225.0
-160,Spain,beer_servings,284.0
-161,Sri Lanka,beer_servings,16.0
-162,Sudan,beer_servings,8.0
-163,Suriname,beer_servings,128.0
-164,Swaziland,beer_servings,90.0
-165,Sweden,beer_servings,152.0
-166,Switzerland,beer_servings,185.0
-167,Syria,beer_servings,5.0
-168,Tajikistan,beer_servings,2.0
-169,Thailand,beer_servings,99.0
-170,Macedonia,beer_servings,106.0
-171,Timor-Leste,beer_servings,1.0
-172,Togo,beer_servings,36.0
-173,Tonga,beer_servings,36.0
-174,Trinidad & Tobago,beer_servings,197.0
-175,Tunisia,beer_servings,51.0
-176,Turkey,beer_servings,51.0
-177,Turkmenistan,beer_servings,19.0
-178,Tuvalu,beer_servings,6.0
-179,Uganda,beer_servings,45.0
-180,Ukraine,beer_servings,206.0
-181,United Arab Emirates,beer_servings,16.0
-182,United Kingdom,beer_servings,219.0
-183,Tanzania,beer_servings,36.0
-184,USA,beer_servings,249.0
-185,Uruguay,beer_servings,115.0
-186,Uzbekistan,beer_servings,25.0
-187,Vanuatu,beer_servings,21.0
-188,Venezuela,beer_servings,333.0
-189,Vietnam,beer_servings,111.0
-190,Yemen,beer_servings,6.0
-191,Zambia,beer_servings,32.0
-192,Zimbabwe,beer_servings,64.0
-193,Afghanistan,spirit_servings,0.0
-194,Albania,spirit_servings,132.0
-195,Algeria,spirit_servings,0.0
-196,Andorra,spirit_servings,138.0
-197,Angola,spirit_servings,57.0
-198,Antigua & Barbuda,spirit_servings,128.0
-199,Argentina,spirit_servings,25.0
-200,Armenia,spirit_servings,179.0
-201,Australia,spirit_servings,72.0
-202,Austria,spirit_servings,75.0
-203,Azerbaijan,spirit_servings,46.0
-204,Bahamas,spirit_servings,176.0
-205,Bahrain,spirit_servings,63.0
-206,Bangladesh,spirit_servings,0.0
-207,Barbados,spirit_servings,173.0
-208,Belarus,spirit_servings,373.0
-209,Belgium,spirit_servings,84.0
-210,Belize,spirit_servings,114.0
-211,Benin,spirit_servings,4.0
-212,Bhutan,spirit_servings,0.0
-213,Bolivia,spirit_servings,41.0
-214,Bosnia-Herzegovina,spirit_servings,173.0
-215,Botswana,spirit_servings,35.0
-216,Brazil,spirit_servings,145.0
-217,Brunei,spirit_servings,2.0
-218,Bulgaria,spirit_servings,252.0
-219,Burkina Faso,spirit_servings,7.0
-220,Burundi,spirit_servings,0.0
-221,Cote d'Ivoire,spirit_servings,1.0
-222,Cabo Verde,spirit_servings,56.0
-223,Cambodia,spirit_servings,65.0
-224,Cameroon,spirit_servings,1.0
-225,Canada,spirit_servings,122.0
-226,Central African Republic,spirit_servings,2.0
-227,Chad,spirit_servings,1.0
-228,Chile,spirit_servings,124.0
-229,China,spirit_servings,192.0
-230,Colombia,spirit_servings,76.0
-231,Comoros,spirit_servings,3.0
-232,Congo,spirit_servings,1.0
-233,Cook Islands,spirit_servings,254.0
-234,Costa Rica,spirit_servings,87.0
-235,Croatia,spirit_servings,87.0
-236,Cuba,spirit_servings,137.0
-237,Cyprus,spirit_servings,154.0
-238,Czech Republic,spirit_servings,170.0
-239,North Korea,spirit_servings,0.0
-240,DR Congo,spirit_servings,3.0
-241,Denmark,spirit_servings,81.0
-242,Djibouti,spirit_servings,44.0
-243,Dominica,spirit_servings,286.0
-244,Dominican Republic,spirit_servings,147.0
-245,Ecuador,spirit_servings,74.0
-246,Egypt,spirit_servings,4.0
-247,El Salvador,spirit_servings,69.0
-248,Equatorial Guinea,spirit_servings,0.0
-249,Eritrea,spirit_servings,0.0
-250,Estonia,spirit_servings,194.0
-251,Ethiopia,spirit_servings,3.0
-252,Fiji,spirit_servings,35.0
-253,Finland,spirit_servings,133.0
-254,France,spirit_servings,151.0
-255,Gabon,spirit_servings,98.0
-256,Gambia,spirit_servings,0.0
-257,Georgia,spirit_servings,100.0
-258,Germany,spirit_servings,117.0
-259,Ghana,spirit_servings,3.0
-260,Greece,spirit_servings,112.0
-261,Grenada,spirit_servings,438.0
-262,Guatemala,spirit_servings,69.0
-263,Guinea,spirit_servings,0.0
-264,Guinea-Bissau,spirit_servings,31.0
-265,Guyana,spirit_servings,302.0
-266,Haiti,spirit_servings,326.0
-267,Honduras,spirit_servings,98.0
-268,Hungary,spirit_servings,215.0
-269,Iceland,spirit_servings,61.0
-270,India,spirit_servings,114.0
-271,Indonesia,spirit_servings,1.0
-272,Iran,spirit_servings,0.0
-273,Iraq,spirit_servings,3.0
-274,Ireland,spirit_servings,118.0
-275,Israel,spirit_servings,69.0
-276,Italy,spirit_servings,42.0
-277,Jamaica,spirit_servings,97.0
-278,Japan,spirit_servings,202.0
-279,Jordan,spirit_servings,21.0
-280,Kazakhstan,spirit_servings,246.0
-281,Kenya,spirit_servings,22.0
-282,Kiribati,spirit_servings,34.0
-283,Kuwait,spirit_servings,0.0
-284,Kyrgyzstan,spirit_servings,97.0
-285,Laos,spirit_servings,0.0
-286,Latvia,spirit_servings,216.0
-287,Lebanon,spirit_servings,55.0
-288,Lesotho,spirit_servings,29.0
-289,Liberia,spirit_servings,152.0
-290,Libya,spirit_servings,0.0
-291,Lithuania,spirit_servings,244.0
-292,Luxembourg,spirit_servings,133.0
-293,Madagascar,spirit_servings,15.0
-294,Malawi,spirit_servings,11.0
-295,Malaysia,spirit_servings,4.0
-296,Maldives,spirit_servings,0.0
-297,Mali,spirit_servings,1.0
-298,Malta,spirit_servings,100.0
-299,Marshall Islands,spirit_servings,0.0
-300,Mauritania,spirit_servings,0.0
-301,Mauritius,spirit_servings,31.0
-302,Mexico,spirit_servings,68.0
-303,Micronesia,spirit_servings,50.0
-304,Monaco,spirit_servings,0.0
-305,Mongolia,spirit_servings,189.0
-306,Montenegro,spirit_servings,114.0
-307,Morocco,spirit_servings,6.0
-308,Mozambique,spirit_servings,18.0
-309,Myanmar,spirit_servings,1.0
-310,Namibia,spirit_servings,3.0
-311,Nauru,spirit_servings,0.0
-312,Nepal,spirit_servings,6.0
-313,Netherlands,spirit_servings,88.0
-314,New Zealand,spirit_servings,79.0
-315,Nicaragua,spirit_servings,118.0
-316,Niger,spirit_servings,2.0
-317,Nigeria,spirit_servings,5.0
-318,Niue,spirit_servings,200.0
-319,Norway,spirit_servings,71.0
-320,Oman,spirit_servings,16.0
-321,Pakistan,spirit_servings,0.0
-322,Palau,spirit_servings,63.0
-323,Panama,spirit_servings,104.0
-324,Papua New Guinea,spirit_servings,39.0
-325,Paraguay,spirit_servings,117.0
-326,Peru,spirit_servings,160.0
-327,Philippines,spirit_servings,186.0
-328,Poland,spirit_servings,215.0
-329,Portugal,spirit_servings,67.0
-330,Qatar,spirit_servings,42.0
-331,South Korea,spirit_servings,16.0
-332,Moldova,spirit_servings,226.0
-333,Romania,spirit_servings,122.0
-334,Russian Federation,spirit_servings,326.0
-335,Rwanda,spirit_servings,2.0
-336,St. Kitts & Nevis,spirit_servings,205.0
-337,St. Lucia,spirit_servings,315.0
-338,St. Vincent & the Grenadines,spirit_servings,221.0
-339,Samoa,spirit_servings,18.0
-340,San Marino,spirit_servings,0.0
-341,Sao Tome & Principe,spirit_servings,38.0
-342,Saudi Arabia,spirit_servings,5.0
-343,Senegal,spirit_servings,1.0
-344,Serbia,spirit_servings,131.0
-345,Seychelles,spirit_servings,25.0
-346,Sierra Leone,spirit_servings,3.0
-347,Singapore,spirit_servings,12.0
-348,Slovakia,spirit_servings,293.0
-349,Slovenia,spirit_servings,51.0
-350,Solomon Islands,spirit_servings,11.0
-351,Somalia,spirit_servings,0.0
-352,South Africa,spirit_servings,76.0
-353,Spain,spirit_servings,157.0
-354,Sri Lanka,spirit_servings,104.0
-355,Sudan,spirit_servings,13.0
-356,Suriname,spirit_servings,178.0
-357,Swaziland,spirit_servings,2.0
-358,Sweden,spirit_servings,60.0
-359,Switzerland,spirit_servings,100.0
-360,Syria,spirit_servings,35.0
-361,Tajikistan,spirit_servings,15.0
-362,Thailand,spirit_servings,258.0
-363,Macedonia,spirit_servings,27.0
-364,Timor-Leste,spirit_servings,1.0
-365,Togo,spirit_servings,2.0
-366,Tonga,spirit_servings,21.0
-367,Trinidad & Tobago,spirit_servings,156.0
-368,Tunisia,spirit_servings,3.0
-369,Turkey,spirit_servings,22.0
-370,Turkmenistan,spirit_servings,71.0
-371,Tuvalu,spirit_servings,41.0
-372,Uganda,spirit_servings,9.0
-373,Ukraine,spirit_servings,237.0
-374,United Arab Emirates,spirit_servings,135.0
-375,United Kingdom,spirit_servings,126.0
-376,Tanzania,spirit_servings,6.0
-377,USA,spirit_servings,158.0
-378,Uruguay,spirit_servings,35.0
-379,Uzbekistan,spirit_servings,101.0
-380,Vanuatu,spirit_servings,18.0
-381,Venezuela,spirit_servings,100.0
-382,Vietnam,spirit_servings,2.0
-383,Yemen,spirit_servings,0.0
-384,Zambia,spirit_servings,19.0
-385,Zimbabwe,spirit_servings,18.0
-386,Afghanistan,wine_servings,0.0
-387,Albania,wine_servings,54.0
-388,Algeria,wine_servings,14.0
-389,Andorra,wine_servings,312.0
-390,Angola,wine_servings,45.0
-391,Antigua & Barbuda,wine_servings,45.0
-392,Argentina,wine_servings,221.0
-393,Armenia,wine_servings,11.0
-394,Australia,wine_servings,212.0
-395,Austria,wine_servings,191.0
-396,Azerbaijan,wine_servings,5.0
-397,Bahamas,wine_servings,51.0
-398,Bahrain,wine_servings,7.0
-399,Bangladesh,wine_servings,0.0
-400,Barbados,wine_servings,36.0
-401,Belarus,wine_servings,42.0
-402,Belgium,wine_servings,212.0
-403,Belize,wine_servings,8.0
-404,Benin,wine_servings,13.0
-405,Bhutan,wine_servings,0.0
-406,Bolivia,wine_servings,8.0
-407,Bosnia-Herzegovina,wine_servings,8.0
-408,Botswana,wine_servings,35.0
-409,Brazil,wine_servings,16.0
-410,Brunei,wine_servings,1.0
-411,Bulgaria,wine_servings,94.0
-412,Burkina Faso,wine_servings,7.0
-413,Burundi,wine_servings,0.0
-414,Cote d'Ivoire,wine_servings,7.0
-415,Cabo Verde,wine_servings,16.0
-416,Cambodia,wine_servings,1.0
-417,Cameroon,wine_servings,4.0
-418,Canada,wine_servings,100.0
-419,Central African Republic,wine_servings,1.0
-420,Chad,wine_servings,1.0
-421,Chile,wine_servings,172.0
-422,China,wine_servings,8.0
-423,Colombia,wine_servings,3.0
-424,Comoros,wine_servings,1.0
-425,Congo,wine_servings,9.0
-426,Cook Islands,wine_servings,74.0
-427,Costa Rica,wine_servings,11.0
-428,Croatia,wine_servings,254.0
-429,Cuba,wine_servings,5.0
-430,Cyprus,wine_servings,113.0
-431,Czech Republic,wine_servings,134.0
-432,North Korea,wine_servings,0.0
-433,DR Congo,wine_servings,1.0
-434,Denmark,wine_servings,278.0
-435,Djibouti,wine_servings,3.0
-436,Dominica,wine_servings,26.0
-437,Dominican Republic,wine_servings,9.0
-438,Ecuador,wine_servings,3.0
-439,Egypt,wine_servings,1.0
-440,El Salvador,wine_servings,2.0
-441,Equatorial Guinea,wine_servings,233.0
-442,Eritrea,wine_servings,0.0
-443,Estonia,wine_servings,59.0
-444,Ethiopia,wine_servings,0.0
-445,Fiji,wine_servings,1.0
-446,Finland,wine_servings,97.0
-447,France,wine_servings,370.0
-448,Gabon,wine_servings,59.0
-449,Gambia,wine_servings,1.0
-450,Georgia,wine_servings,149.0
-451,Germany,wine_servings,175.0
-452,Ghana,wine_servings,10.0
-453,Greece,wine_servings,218.0
-454,Grenada,wine_servings,28.0
-455,Guatemala,wine_servings,2.0
-456,Guinea,wine_servings,2.0
-457,Guinea-Bissau,wine_servings,21.0
-458,Guyana,wine_servings,1.0
-459,Haiti,wine_servings,1.0
-460,Honduras,wine_servings,2.0
-461,Hungary,wine_servings,185.0
-462,Iceland,wine_servings,78.0
-463,India,wine_servings,0.0
-464,Indonesia,wine_servings,0.0
-465,Iran,wine_servings,0.0
-466,Iraq,wine_servings,0.0
-467,Ireland,wine_servings,165.0
-468,Israel,wine_servings,9.0
-469,Italy,wine_servings,237.0
-470,Jamaica,wine_servings,9.0
-471,Japan,wine_servings,16.0
-472,Jordan,wine_servings,1.0
-473,Kazakhstan,wine_servings,12.0
-474,Kenya,wine_servings,2.0
-475,Kiribati,wine_servings,1.0
-476,Kuwait,wine_servings,0.0
-477,Kyrgyzstan,wine_servings,6.0
-478,Laos,wine_servings,123.0
-479,Latvia,wine_servings,62.0
-480,Lebanon,wine_servings,31.0
-481,Lesotho,wine_servings,0.0
-482,Liberia,wine_servings,2.0
-483,Libya,wine_servings,0.0
-484,Lithuania,wine_servings,56.0
-485,Luxembourg,wine_servings,271.0
-486,Madagascar,wine_servings,4.0
-487,Malawi,wine_servings,1.0
-488,Malaysia,wine_servings,0.0
-489,Maldives,wine_servings,0.0
-490,Mali,wine_servings,1.0
-491,Malta,wine_servings,120.0
-492,Marshall Islands,wine_servings,0.0
-493,Mauritania,wine_servings,0.0
-494,Mauritius,wine_servings,18.0
-495,Mexico,wine_servings,5.0
-496,Micronesia,wine_servings,18.0
-497,Monaco,wine_servings,0.0
-498,Mongolia,wine_servings,8.0
-499,Montenegro,wine_servings,128.0
-500,Morocco,wine_servings,10.0
-501,Mozambique,wine_servings,5.0
-502,Myanmar,wine_servings,0.0
-503,Namibia,wine_servings,1.0
-504,Nauru,wine_servings,8.0
-505,Nepal,wine_servings,0.0
-506,Netherlands,wine_servings,190.0
-507,New Zealand,wine_servings,175.0
-508,Nicaragua,wine_servings,1.0
-509,Niger,wine_servings,1.0
-510,Nigeria,wine_servings,2.0
-511,Niue,wine_servings,7.0
-512,Norway,wine_servings,129.0
-513,Oman,wine_servings,1.0
-514,Pakistan,wine_servings,0.0
-515,Palau,wine_servings,23.0
-516,Panama,wine_servings,18.0
-517,Papua New Guinea,wine_servings,1.0
-518,Paraguay,wine_servings,74.0
-519,Peru,wine_servings,21.0
-520,Philippines,wine_servings,1.0
-521,Poland,wine_servings,56.0
-522,Portugal,wine_servings,339.0
-523,Qatar,wine_servings,7.0
-524,South Korea,wine_servings,9.0
-525,Moldova,wine_servings,18.0
-526,Romania,wine_servings,167.0
-527,Russian Federation,wine_servings,73.0
-528,Rwanda,wine_servings,0.0
-529,St. Kitts & Nevis,wine_servings,32.0
-530,St. Lucia,wine_servings,71.0
-531,St. Vincent & the Grenadines,wine_servings,11.0
-532,Samoa,wine_servings,24.0
-533,San Marino,wine_servings,0.0
-534,Sao Tome & Principe,wine_servings,140.0
-535,Saudi Arabia,wine_servings,0.0
-536,Senegal,wine_servings,7.0
-537,Serbia,wine_servings,127.0
-538,Seychelles,wine_servings,51.0
-539,Sierra Leone,wine_servings,2.0
-540,Singapore,wine_servings,11.0
-541,Slovakia,wine_servings,116.0
-542,Slovenia,wine_servings,276.0
-543,Solomon Islands,wine_servings,1.0
-544,Somalia,wine_servings,0.0
-545,South Africa,wine_servings,81.0
-546,Spain,wine_servings,112.0
-547,Sri Lanka,wine_servings,0.0
-548,Sudan,wine_servings,0.0
-549,Suriname,wine_servings,7.0
-550,Swaziland,wine_servings,2.0
-551,Sweden,wine_servings,186.0
-552,Switzerland,wine_servings,280.0
-553,Syria,wine_servings,16.0
-554,Tajikistan,wine_servings,0.0
-555,Thailand,wine_servings,1.0
-556,Macedonia,wine_servings,86.0
-557,Timor-Leste,wine_servings,4.0
-558,Togo,wine_servings,19.0
-559,Tonga,wine_servings,5.0
-560,Trinidad & Tobago,wine_servings,7.0
-561,Tunisia,wine_servings,20.0
-562,Turkey,wine_servings,7.0
-563,Turkmenistan,wine_servings,32.0
-564,Tuvalu,wine_servings,9.0
-565,Uganda,wine_servings,0.0
-566,Ukraine,wine_servings,45.0
-567,United Arab Emirates,wine_servings,5.0
-568,United Kingdom,wine_servings,195.0
-569,Tanzania,wine_servings,1.0
-570,USA,wine_servings,84.0
-571,Uruguay,wine_servings,220.0
-572,Uzbekistan,wine_servings,8.0
-573,Vanuatu,wine_servings,11.0
-574,Venezuela,wine_servings,3.0
-575,Vietnam,wine_servings,1.0
-576,Yemen,wine_servings,0.0
-577,Zambia,wine_servings,4.0
-578,Zimbabwe,wine_servings,4.0
-579,Afghanistan,total_litres_of_pure_alcohol,0.0
-580,Albania,total_litres_of_pure_alcohol,4.9
-581,Algeria,total_litres_of_pure_alcohol,0.7
-582,Andorra,total_litres_of_pure_alcohol,12.4
-583,Angola,total_litres_of_pure_alcohol,5.9
-584,Antigua & Barbuda,total_litres_of_pure_alcohol,4.9
-585,Argentina,total_litres_of_pure_alcohol,8.3
-586,Armenia,total_litres_of_pure_alcohol,3.8
-587,Australia,total_litres_of_pure_alcohol,10.4
-588,Austria,total_litres_of_pure_alcohol,9.7
-589,Azerbaijan,total_litres_of_pure_alcohol,1.3
-590,Bahamas,total_litres_of_pure_alcohol,6.3
-591,Bahrain,total_litres_of_pure_alcohol,2.0
-592,Bangladesh,total_litres_of_pure_alcohol,0.0
-593,Barbados,total_litres_of_pure_alcohol,6.3
-594,Belarus,total_litres_of_pure_alcohol,14.4
-595,Belgium,total_litres_of_pure_alcohol,10.5
-596,Belize,total_litres_of_pure_alcohol,6.8
-597,Benin,total_litres_of_pure_alcohol,1.1
-598,Bhutan,total_litres_of_pure_alcohol,0.4
-599,Bolivia,total_litres_of_pure_alcohol,3.8
-600,Bosnia-Herzegovina,total_litres_of_pure_alcohol,4.6
-601,Botswana,total_litres_of_pure_alcohol,5.4
-602,Brazil,total_litres_of_pure_alcohol,7.2
-603,Brunei,total_litres_of_pure_alcohol,0.6
-604,Bulgaria,total_litres_of_pure_alcohol,10.3
-605,Burkina Faso,total_litres_of_pure_alcohol,4.3
-606,Burundi,total_litres_of_pure_alcohol,6.3
-607,Cote d'Ivoire,total_litres_of_pure_alcohol,4.0
-608,Cabo Verde,total_litres_of_pure_alcohol,4.0
-609,Cambodia,total_litres_of_pure_alcohol,2.2
-610,Cameroon,total_litres_of_pure_alcohol,5.8
-611,Canada,total_litres_of_pure_alcohol,8.2
-612,Central African Republic,total_litres_of_pure_alcohol,1.8
-613,Chad,total_litres_of_pure_alcohol,0.4
-614,Chile,total_litres_of_pure_alcohol,7.6
-615,China,total_litres_of_pure_alcohol,5.0
-616,Colombia,total_litres_of_pure_alcohol,4.2
-617,Comoros,total_litres_of_pure_alcohol,0.1
-618,Congo,total_litres_of_pure_alcohol,1.7
-619,Cook Islands,total_litres_of_pure_alcohol,5.9
-620,Costa Rica,total_litres_of_pure_alcohol,4.4
-621,Croatia,total_litres_of_pure_alcohol,10.2
-622,Cuba,total_litres_of_pure_alcohol,4.2
-623,Cyprus,total_litres_of_pure_alcohol,8.2
-624,Czech Republic,total_litres_of_pure_alcohol,11.8
-625,North Korea,total_litres_of_pure_alcohol,0.0
-626,DR Congo,total_litres_of_pure_alcohol,2.3
-627,Denmark,total_litres_of_pure_alcohol,10.4
-628,Djibouti,total_litres_of_pure_alcohol,1.1
-629,Dominica,total_litres_of_pure_alcohol,6.6
-630,Dominican Republic,total_litres_of_pure_alcohol,6.2
-631,Ecuador,total_litres_of_pure_alcohol,4.2
-632,Egypt,total_litres_of_pure_alcohol,0.2
-633,El Salvador,total_litres_of_pure_alcohol,2.2
-634,Equatorial Guinea,total_litres_of_pure_alcohol,5.8
-635,Eritrea,total_litres_of_pure_alcohol,0.5
-636,Estonia,total_litres_of_pure_alcohol,9.5
-637,Ethiopia,total_litres_of_pure_alcohol,0.7
-638,Fiji,total_litres_of_pure_alcohol,2.0
-639,Finland,total_litres_of_pure_alcohol,10.0
-640,France,total_litres_of_pure_alcohol,11.8
-641,Gabon,total_litres_of_pure_alcohol,8.9
-642,Gambia,total_litres_of_pure_alcohol,2.4
-643,Georgia,total_litres_of_pure_alcohol,5.4
-644,Germany,total_litres_of_pure_alcohol,11.3
-645,Ghana,total_litres_of_pure_alcohol,1.8
-646,Greece,total_litres_of_pure_alcohol,8.3
-647,Grenada,total_litres_of_pure_alcohol,11.9
-648,Guatemala,total_litres_of_pure_alcohol,2.2
-649,Guinea,total_litres_of_pure_alcohol,0.2
-650,Guinea-Bissau,total_litres_of_pure_alcohol,2.5
-651,Guyana,total_litres_of_pure_alcohol,7.1
-652,Haiti,total_litres_of_pure_alcohol,5.9
-653,Honduras,total_litres_of_pure_alcohol,3.0
-654,Hungary,total_litres_of_pure_alcohol,11.3
-655,Iceland,total_litres_of_pure_alcohol,6.6
-656,India,total_litres_of_pure_alcohol,2.2
-657,Indonesia,total_litres_of_pure_alcohol,0.1
-658,Iran,total_litres_of_pure_alcohol,0.0
-659,Iraq,total_litres_of_pure_alcohol,0.2
-660,Ireland,total_litres_of_pure_alcohol,11.4
-661,Israel,total_litres_of_pure_alcohol,2.5
-662,Italy,total_litres_of_pure_alcohol,6.5
-663,Jamaica,total_litres_of_pure_alcohol,3.4
-664,Japan,total_litres_of_pure_alcohol,7.0
-665,Jordan,total_litres_of_pure_alcohol,0.5
-666,Kazakhstan,total_litres_of_pure_alcohol,6.8
-667,Kenya,total_litres_of_pure_alcohol,1.8
-668,Kiribati,total_litres_of_pure_alcohol,1.0
-669,Kuwait,total_litres_of_pure_alcohol,0.0
-670,Kyrgyzstan,total_litres_of_pure_alcohol,2.4
-671,Laos,total_litres_of_pure_alcohol,6.2
-672,Latvia,total_litres_of_pure_alcohol,10.5
-673,Lebanon,total_litres_of_pure_alcohol,1.9
-674,Lesotho,total_litres_of_pure_alcohol,2.8
-675,Liberia,total_litres_of_pure_alcohol,3.1
-676,Libya,total_litres_of_pure_alcohol,0.0
-677,Lithuania,total_litres_of_pure_alcohol,12.9
-678,Luxembourg,total_litres_of_pure_alcohol,11.4
-679,Madagascar,total_litres_of_pure_alcohol,0.8
-680,Malawi,total_litres_of_pure_alcohol,1.5
-681,Malaysia,total_litres_of_pure_alcohol,0.3
-682,Maldives,total_litres_of_pure_alcohol,0.0
-683,Mali,total_litres_of_pure_alcohol,0.6
-684,Malta,total_litres_of_pure_alcohol,6.6
-685,Marshall Islands,total_litres_of_pure_alcohol,0.0
-686,Mauritania,total_litres_of_pure_alcohol,0.0
-687,Mauritius,total_litres_of_pure_alcohol,2.6
-688,Mexico,total_litres_of_pure_alcohol,5.5
-689,Micronesia,total_litres_of_pure_alcohol,2.3
-690,Monaco,total_litres_of_pure_alcohol,0.0
-691,Mongolia,total_litres_of_pure_alcohol,4.9
-692,Montenegro,total_litres_of_pure_alcohol,4.9
-693,Morocco,total_litres_of_pure_alcohol,0.5
-694,Mozambique,total_litres_of_pure_alcohol,1.3
-695,Myanmar,total_litres_of_pure_alcohol,0.1
-696,Namibia,total_litres_of_pure_alcohol,6.8
-697,Nauru,total_litres_of_pure_alcohol,1.0
-698,Nepal,total_litres_of_pure_alcohol,0.2
-699,Netherlands,total_litres_of_pure_alcohol,9.4
-700,New Zealand,total_litres_of_pure_alcohol,9.3
-701,Nicaragua,total_litres_of_pure_alcohol,3.5
-702,Niger,total_litres_of_pure_alcohol,0.1
-703,Nigeria,total_litres_of_pure_alcohol,9.1
-704,Niue,total_litres_of_pure_alcohol,7.0
-705,Norway,total_litres_of_pure_alcohol,6.7
-706,Oman,total_litres_of_pure_alcohol,0.7
-707,Pakistan,total_litres_of_pure_alcohol,0.0
-708,Palau,total_litres_of_pure_alcohol,6.9
-709,Panama,total_litres_of_pure_alcohol,7.2
-710,Papua New Guinea,total_litres_of_pure_alcohol,1.5
-711,Paraguay,total_litres_of_pure_alcohol,7.3
-712,Peru,total_litres_of_pure_alcohol,6.1
-713,Philippines,total_litres_of_pure_alcohol,4.6
-714,Poland,total_litres_of_pure_alcohol,10.9
-715,Portugal,total_litres_of_pure_alcohol,11.0
-716,Qatar,total_litres_of_pure_alcohol,0.9
-717,South Korea,total_litres_of_pure_alcohol,9.8
-718,Moldova,total_litres_of_pure_alcohol,6.3
-719,Romania,total_litres_of_pure_alcohol,10.4
-720,Russian Federation,total_litres_of_pure_alcohol,11.5
-721,Rwanda,total_litres_of_pure_alcohol,6.8
-722,St. Kitts & Nevis,total_litres_of_pure_alcohol,7.7
-723,St. Lucia,total_litres_of_pure_alcohol,10.1
-724,St. Vincent & the Grenadines,total_litres_of_pure_alcohol,6.3
-725,Samoa,total_litres_of_pure_alcohol,2.6
-726,San Marino,total_litres_of_pure_alcohol,0.0
-727,Sao Tome & Principe,total_litres_of_pure_alcohol,4.2
-728,Saudi Arabia,total_litres_of_pure_alcohol,0.1
-729,Senegal,total_litres_of_pure_alcohol,0.3
-730,Serbia,total_litres_of_pure_alcohol,9.6
-731,Seychelles,total_litres_of_pure_alcohol,4.1
-732,Sierra Leone,total_litres_of_pure_alcohol,6.7
-733,Singapore,total_litres_of_pure_alcohol,1.5
-734,Slovakia,total_litres_of_pure_alcohol,11.4
-735,Slovenia,total_litres_of_pure_alcohol,10.6
-736,Solomon Islands,total_litres_of_pure_alcohol,1.2
-737,Somalia,total_litres_of_pure_alcohol,0.0
-738,South Africa,total_litres_of_pure_alcohol,8.2
-739,Spain,total_litres_of_pure_alcohol,10.0
-740,Sri Lanka,total_litres_of_pure_alcohol,2.2
-741,Sudan,total_litres_of_pure_alcohol,1.7
-742,Suriname,total_litres_of_pure_alcohol,5.6
-743,Swaziland,total_litres_of_pure_alcohol,4.7
-744,Sweden,total_litres_of_pure_alcohol,7.2
-745,Switzerland,total_litres_of_pure_alcohol,10.2
-746,Syria,total_litres_of_pure_alcohol,1.0
-747,Tajikistan,total_litres_of_pure_alcohol,0.3
-748,Thailand,total_litres_of_pure_alcohol,6.4
-749,Macedonia,total_litres_of_pure_alcohol,3.9
-750,Timor-Leste,total_litres_of_pure_alcohol,0.1
-751,Togo,total_litres_of_pure_alcohol,1.3
-752,Tonga,total_litres_of_pure_alcohol,1.1
-753,Trinidad & Tobago,total_litres_of_pure_alcohol,6.4
-754,Tunisia,total_litres_of_pure_alcohol,1.3
-755,Turkey,total_litres_of_pure_alcohol,1.4
-756,Turkmenistan,total_litres_of_pure_alcohol,2.2
-757,Tuvalu,total_litres_of_pure_alcohol,1.0
-758,Uganda,total_litres_of_pure_alcohol,8.3
-759,Ukraine,total_litres_of_pure_alcohol,8.9
-760,United Arab Emirates,total_litres_of_pure_alcohol,2.8
-761,United Kingdom,total_litres_of_pure_alcohol,10.4
-762,Tanzania,total_litres_of_pure_alcohol,5.7
-763,USA,total_litres_of_pure_alcohol,8.7
-764,Uruguay,total_litres_of_pure_alcohol,6.6
-765,Uzbekistan,total_litres_of_pure_alcohol,2.4
-766,Vanuatu,total_litres_of_pure_alcohol,0.9
-767,Venezuela,total_litres_of_pure_alcohol,7.7
-768,Vietnam,total_litres_of_pure_alcohol,2.0
-769,Yemen,total_litres_of_pure_alcohol,0.1
-770,Zambia,total_litres_of_pure_alcohol,2.5
-771,Zimbabwe,total_litres_of_pure_alcohol,4.7
+country,type,litres
+Afghanistan,beer_servings,0.0
+Albania,beer_servings,89.0
+Algeria,beer_servings,25.0
+Andorra,beer_servings,245.0
+Angola,beer_servings,217.0
+Antigua & Barbuda,beer_servings,102.0
+Argentina,beer_servings,193.0
+Armenia,beer_servings,21.0
+Australia,beer_servings,261.0
+Austria,beer_servings,279.0
+Azerbaijan,beer_servings,21.0
+Bahamas,beer_servings,122.0
+Bahrain,beer_servings,42.0
+Bangladesh,beer_servings,0.0
+Barbados,beer_servings,143.0
+Belarus,beer_servings,142.0
+Belgium,beer_servings,295.0
+Belize,beer_servings,263.0
+Benin,beer_servings,34.0
+Bhutan,beer_servings,23.0
+Bolivia,beer_servings,167.0
+Bosnia-Herzegovina,beer_servings,76.0
+Botswana,beer_servings,173.0
+Brazil,beer_servings,245.0
+Brunei,beer_servings,31.0
+Bulgaria,beer_servings,231.0
+Burkina Faso,beer_servings,25.0
+Burundi,beer_servings,88.0
+Cote d'Ivoire,beer_servings,37.0
+Cabo Verde,beer_servings,144.0
+Cambodia,beer_servings,57.0
+Cameroon,beer_servings,147.0
+Canada,beer_servings,240.0
+Central African Republic,beer_servings,17.0
+Chad,beer_servings,15.0
+Chile,beer_servings,130.0
+China,beer_servings,79.0
+Colombia,beer_servings,159.0
+Comoros,beer_servings,1.0
+Congo,beer_servings,76.0
+Cook Islands,beer_servings,0.0
+Costa Rica,beer_servings,149.0
+Croatia,beer_servings,230.0
+Cuba,beer_servings,93.0
+Cyprus,beer_servings,192.0
+Czech Republic,beer_servings,361.0
+North Korea,beer_servings,0.0
+DR Congo,beer_servings,32.0
+Denmark,beer_servings,224.0
+Djibouti,beer_servings,15.0
+Dominica,beer_servings,52.0
+Dominican Republic,beer_servings,193.0
+Ecuador,beer_servings,162.0
+Egypt,beer_servings,6.0
+El Salvador,beer_servings,52.0
+Equatorial Guinea,beer_servings,92.0
+Eritrea,beer_servings,18.0
+Estonia,beer_servings,224.0
+Ethiopia,beer_servings,20.0
+Fiji,beer_servings,77.0
+Finland,beer_servings,263.0
+France,beer_servings,127.0
+Gabon,beer_servings,347.0
+Gambia,beer_servings,8.0
+Georgia,beer_servings,52.0
+Germany,beer_servings,346.0
+Ghana,beer_servings,31.0
+Greece,beer_servings,133.0
+Grenada,beer_servings,199.0
+Guatemala,beer_servings,53.0
+Guinea,beer_servings,9.0
+Guinea-Bissau,beer_servings,28.0
+Guyana,beer_servings,93.0
+Haiti,beer_servings,1.0
+Honduras,beer_servings,69.0
+Hungary,beer_servings,234.0
+Iceland,beer_servings,233.0
+India,beer_servings,9.0
+Indonesia,beer_servings,5.0
+Iran,beer_servings,0.0
+Iraq,beer_servings,9.0
+Ireland,beer_servings,313.0
+Israel,beer_servings,63.0
+Italy,beer_servings,85.0
+Jamaica,beer_servings,82.0
+Japan,beer_servings,77.0
+Jordan,beer_servings,6.0
+Kazakhstan,beer_servings,124.0
+Kenya,beer_servings,58.0
+Kiribati,beer_servings,21.0
+Kuwait,beer_servings,0.0
+Kyrgyzstan,beer_servings,31.0
+Laos,beer_servings,62.0
+Latvia,beer_servings,281.0
+Lebanon,beer_servings,20.0
+Lesotho,beer_servings,82.0
+Liberia,beer_servings,19.0
+Libya,beer_servings,0.0
+Lithuania,beer_servings,343.0
+Luxembourg,beer_servings,236.0
+Madagascar,beer_servings,26.0
+Malawi,beer_servings,8.0
+Malaysia,beer_servings,13.0
+Maldives,beer_servings,0.0
+Mali,beer_servings,5.0
+Malta,beer_servings,149.0
+Marshall Islands,beer_servings,0.0
+Mauritania,beer_servings,0.0
+Mauritius,beer_servings,98.0
+Mexico,beer_servings,238.0
+Micronesia,beer_servings,62.0
+Monaco,beer_servings,0.0
+Mongolia,beer_servings,77.0
+Montenegro,beer_servings,31.0
+Morocco,beer_servings,12.0
+Mozambique,beer_servings,47.0
+Myanmar,beer_servings,5.0
+Namibia,beer_servings,376.0
+Nauru,beer_servings,49.0
+Nepal,beer_servings,5.0
+Netherlands,beer_servings,251.0
+New Zealand,beer_servings,203.0
+Nicaragua,beer_servings,78.0
+Niger,beer_servings,3.0
+Nigeria,beer_servings,42.0
+Niue,beer_servings,188.0
+Norway,beer_servings,169.0
+Oman,beer_servings,22.0
+Pakistan,beer_servings,0.0
+Palau,beer_servings,306.0
+Panama,beer_servings,285.0
+Papua New Guinea,beer_servings,44.0
+Paraguay,beer_servings,213.0
+Peru,beer_servings,163.0
+Philippines,beer_servings,71.0
+Poland,beer_servings,343.0
+Portugal,beer_servings,194.0
+Qatar,beer_servings,1.0
+South Korea,beer_servings,140.0
+Moldova,beer_servings,109.0
+Romania,beer_servings,297.0
+Russian Federation,beer_servings,247.0
+Rwanda,beer_servings,43.0
+St. Kitts & Nevis,beer_servings,194.0
+St. Lucia,beer_servings,171.0
+St. Vincent & the Grenadines,beer_servings,120.0
+Samoa,beer_servings,105.0
+San Marino,beer_servings,0.0
+Sao Tome & Principe,beer_servings,56.0
+Saudi Arabia,beer_servings,0.0
+Senegal,beer_servings,9.0
+Serbia,beer_servings,283.0
+Seychelles,beer_servings,157.0
+Sierra Leone,beer_servings,25.0
+Singapore,beer_servings,60.0
+Slovakia,beer_servings,196.0
+Slovenia,beer_servings,270.0
+Solomon Islands,beer_servings,56.0
+Somalia,beer_servings,0.0
+South Africa,beer_servings,225.0
+Spain,beer_servings,284.0
+Sri Lanka,beer_servings,16.0
+Sudan,beer_servings,8.0
+Suriname,beer_servings,128.0
+Swaziland,beer_servings,90.0
+Sweden,beer_servings,152.0
+Switzerland,beer_servings,185.0
+Syria,beer_servings,5.0
+Tajikistan,beer_servings,2.0
+Thailand,beer_servings,99.0
+Macedonia,beer_servings,106.0
+Timor-Leste,beer_servings,1.0
+Togo,beer_servings,36.0
+Tonga,beer_servings,36.0
+Trinidad & Tobago,beer_servings,197.0
+Tunisia,beer_servings,51.0
+Turkey,beer_servings,51.0
+Turkmenistan,beer_servings,19.0
+Tuvalu,beer_servings,6.0
+Uganda,beer_servings,45.0
+Ukraine,beer_servings,206.0
+United Arab Emirates,beer_servings,16.0
+United Kingdom,beer_servings,219.0
+Tanzania,beer_servings,36.0
+USA,beer_servings,249.0
+Uruguay,beer_servings,115.0
+Uzbekistan,beer_servings,25.0
+Vanuatu,beer_servings,21.0
+Venezuela,beer_servings,333.0
+Vietnam,beer_servings,111.0
+Yemen,beer_servings,6.0
+Zambia,beer_servings,32.0
+Zimbabwe,beer_servings,64.0
+Afghanistan,spirit_servings,0.0
+Albania,spirit_servings,132.0
+Algeria,spirit_servings,0.0
+Andorra,spirit_servings,138.0
+Angola,spirit_servings,57.0
+Antigua & Barbuda,spirit_servings,128.0
+Argentina,spirit_servings,25.0
+Armenia,spirit_servings,179.0
+Australia,spirit_servings,72.0
+Austria,spirit_servings,75.0
+Azerbaijan,spirit_servings,46.0
+Bahamas,spirit_servings,176.0
+Bahrain,spirit_servings,63.0
+Bangladesh,spirit_servings,0.0
+Barbados,spirit_servings,173.0
+Belarus,spirit_servings,373.0
+Belgium,spirit_servings,84.0
+Belize,spirit_servings,114.0
+Benin,spirit_servings,4.0
+Bhutan,spirit_servings,0.0
+Bolivia,spirit_servings,41.0
+Bosnia-Herzegovina,spirit_servings,173.0
+Botswana,spirit_servings,35.0
+Brazil,spirit_servings,145.0
+Brunei,spirit_servings,2.0
+Bulgaria,spirit_servings,252.0
+Burkina Faso,spirit_servings,7.0
+Burundi,spirit_servings,0.0
+Cote d'Ivoire,spirit_servings,1.0
+Cabo Verde,spirit_servings,56.0
+Cambodia,spirit_servings,65.0
+Cameroon,spirit_servings,1.0
+Canada,spirit_servings,122.0
+Central African Republic,spirit_servings,2.0
+Chad,spirit_servings,1.0
+Chile,spirit_servings,124.0
+China,spirit_servings,192.0
+Colombia,spirit_servings,76.0
+Comoros,spirit_servings,3.0
+Congo,spirit_servings,1.0
+Cook Islands,spirit_servings,254.0
+Costa Rica,spirit_servings,87.0
+Croatia,spirit_servings,87.0
+Cuba,spirit_servings,137.0
+Cyprus,spirit_servings,154.0
+Czech Republic,spirit_servings,170.0
+North Korea,spirit_servings,0.0
+DR Congo,spirit_servings,3.0
+Denmark,spirit_servings,81.0
+Djibouti,spirit_servings,44.0
+Dominica,spirit_servings,286.0
+Dominican Republic,spirit_servings,147.0
+Ecuador,spirit_servings,74.0
+Egypt,spirit_servings,4.0
+El Salvador,spirit_servings,69.0
+Equatorial Guinea,spirit_servings,0.0
+Eritrea,spirit_servings,0.0
+Estonia,spirit_servings,194.0
+Ethiopia,spirit_servings,3.0
+Fiji,spirit_servings,35.0
+Finland,spirit_servings,133.0
+France,spirit_servings,151.0
+Gabon,spirit_servings,98.0
+Gambia,spirit_servings,0.0
+Georgia,spirit_servings,100.0
+Germany,spirit_servings,117.0
+Ghana,spirit_servings,3.0
+Greece,spirit_servings,112.0
+Grenada,spirit_servings,438.0
+Guatemala,spirit_servings,69.0
+Guinea,spirit_servings,0.0
+Guinea-Bissau,spirit_servings,31.0
+Guyana,spirit_servings,302.0
+Haiti,spirit_servings,326.0
+Honduras,spirit_servings,98.0
+Hungary,spirit_servings,215.0
+Iceland,spirit_servings,61.0
+India,spirit_servings,114.0
+Indonesia,spirit_servings,1.0
+Iran,spirit_servings,0.0
+Iraq,spirit_servings,3.0
+Ireland,spirit_servings,118.0
+Israel,spirit_servings,69.0
+Italy,spirit_servings,42.0
+Jamaica,spirit_servings,97.0
+Japan,spirit_servings,202.0
+Jordan,spirit_servings,21.0
+Kazakhstan,spirit_servings,246.0
+Kenya,spirit_servings,22.0
+Kiribati,spirit_servings,34.0
+Kuwait,spirit_servings,0.0
+Kyrgyzstan,spirit_servings,97.0
+Laos,spirit_servings,0.0
+Latvia,spirit_servings,216.0
+Lebanon,spirit_servings,55.0
+Lesotho,spirit_servings,29.0
+Liberia,spirit_servings,152.0
+Libya,spirit_servings,0.0
+Lithuania,spirit_servings,244.0
+Luxembourg,spirit_servings,133.0
+Madagascar,spirit_servings,15.0
+Malawi,spirit_servings,11.0
+Malaysia,spirit_servings,4.0
+Maldives,spirit_servings,0.0
+Mali,spirit_servings,1.0
+Malta,spirit_servings,100.0
+Marshall Islands,spirit_servings,0.0
+Mauritania,spirit_servings,0.0
+Mauritius,spirit_servings,31.0
+Mexico,spirit_servings,68.0
+Micronesia,spirit_servings,50.0
+Monaco,spirit_servings,0.0
+Mongolia,spirit_servings,189.0
+Montenegro,spirit_servings,114.0
+Morocco,spirit_servings,6.0
+Mozambique,spirit_servings,18.0
+Myanmar,spirit_servings,1.0
+Namibia,spirit_servings,3.0
+Nauru,spirit_servings,0.0
+Nepal,spirit_servings,6.0
+Netherlands,spirit_servings,88.0
+New Zealand,spirit_servings,79.0
+Nicaragua,spirit_servings,118.0
+Niger,spirit_servings,2.0
+Nigeria,spirit_servings,5.0
+Niue,spirit_servings,200.0
+Norway,spirit_servings,71.0
+Oman,spirit_servings,16.0
+Pakistan,spirit_servings,0.0
+Palau,spirit_servings,63.0
+Panama,spirit_servings,104.0
+Papua New Guinea,spirit_servings,39.0
+Paraguay,spirit_servings,117.0
+Peru,spirit_servings,160.0
+Philippines,spirit_servings,186.0
+Poland,spirit_servings,215.0
+Portugal,spirit_servings,67.0
+Qatar,spirit_servings,42.0
+South Korea,spirit_servings,16.0
+Moldova,spirit_servings,226.0
+Romania,spirit_servings,122.0
+Russian Federation,spirit_servings,326.0
+Rwanda,spirit_servings,2.0
+St. Kitts & Nevis,spirit_servings,205.0
+St. Lucia,spirit_servings,315.0
+St. Vincent & the Grenadines,spirit_servings,221.0
+Samoa,spirit_servings,18.0
+San Marino,spirit_servings,0.0
+Sao Tome & Principe,spirit_servings,38.0
+Saudi Arabia,spirit_servings,5.0
+Senegal,spirit_servings,1.0
+Serbia,spirit_servings,131.0
+Seychelles,spirit_servings,25.0
+Sierra Leone,spirit_servings,3.0
+Singapore,spirit_servings,12.0
+Slovakia,spirit_servings,293.0
+Slovenia,spirit_servings,51.0
+Solomon Islands,spirit_servings,11.0
+Somalia,spirit_servings,0.0
+South Africa,spirit_servings,76.0
+Spain,spirit_servings,157.0
+Sri Lanka,spirit_servings,104.0
+Sudan,spirit_servings,13.0
+Suriname,spirit_servings,178.0
+Swaziland,spirit_servings,2.0
+Sweden,spirit_servings,60.0
+Switzerland,spirit_servings,100.0
+Syria,spirit_servings,35.0
+Tajikistan,spirit_servings,15.0
+Thailand,spirit_servings,258.0
+Macedonia,spirit_servings,27.0
+Timor-Leste,spirit_servings,1.0
+Togo,spirit_servings,2.0
+Tonga,spirit_servings,21.0
+Trinidad & Tobago,spirit_servings,156.0
+Tunisia,spirit_servings,3.0
+Turkey,spirit_servings,22.0
+Turkmenistan,spirit_servings,71.0
+Tuvalu,spirit_servings,41.0
+Uganda,spirit_servings,9.0
+Ukraine,spirit_servings,237.0
+United Arab Emirates,spirit_servings,135.0
+United Kingdom,spirit_servings,126.0
+Tanzania,spirit_servings,6.0
+USA,spirit_servings,158.0
+Uruguay,spirit_servings,35.0
+Uzbekistan,spirit_servings,101.0
+Vanuatu,spirit_servings,18.0
+Venezuela,spirit_servings,100.0
+Vietnam,spirit_servings,2.0
+Yemen,spirit_servings,0.0
+Zambia,spirit_servings,19.0
+Zimbabwe,spirit_servings,18.0
+Afghanistan,wine_servings,0.0
+Albania,wine_servings,54.0
+Algeria,wine_servings,14.0
+Andorra,wine_servings,312.0
+Angola,wine_servings,45.0
+Antigua & Barbuda,wine_servings,45.0
+Argentina,wine_servings,221.0
+Armenia,wine_servings,11.0
+Australia,wine_servings,212.0
+Austria,wine_servings,191.0
+Azerbaijan,wine_servings,5.0
+Bahamas,wine_servings,51.0
+Bahrain,wine_servings,7.0
+Bangladesh,wine_servings,0.0
+Barbados,wine_servings,36.0
+Belarus,wine_servings,42.0
+Belgium,wine_servings,212.0
+Belize,wine_servings,8.0
+Benin,wine_servings,13.0
+Bhutan,wine_servings,0.0
+Bolivia,wine_servings,8.0
+Bosnia-Herzegovina,wine_servings,8.0
+Botswana,wine_servings,35.0
+Brazil,wine_servings,16.0
+Brunei,wine_servings,1.0
+Bulgaria,wine_servings,94.0
+Burkina Faso,wine_servings,7.0
+Burundi,wine_servings,0.0
+Cote d'Ivoire,wine_servings,7.0
+Cabo Verde,wine_servings,16.0
+Cambodia,wine_servings,1.0
+Cameroon,wine_servings,4.0
+Canada,wine_servings,100.0
+Central African Republic,wine_servings,1.0
+Chad,wine_servings,1.0
+Chile,wine_servings,172.0
+China,wine_servings,8.0
+Colombia,wine_servings,3.0
+Comoros,wine_servings,1.0
+Congo,wine_servings,9.0
+Cook Islands,wine_servings,74.0
+Costa Rica,wine_servings,11.0
+Croatia,wine_servings,254.0
+Cuba,wine_servings,5.0
+Cyprus,wine_servings,113.0
+Czech Republic,wine_servings,134.0
+North Korea,wine_servings,0.0
+DR Congo,wine_servings,1.0
+Denmark,wine_servings,278.0
+Djibouti,wine_servings,3.0
+Dominica,wine_servings,26.0
+Dominican Republic,wine_servings,9.0
+Ecuador,wine_servings,3.0
+Egypt,wine_servings,1.0
+El Salvador,wine_servings,2.0
+Equatorial Guinea,wine_servings,233.0
+Eritrea,wine_servings,0.0
+Estonia,wine_servings,59.0
+Ethiopia,wine_servings,0.0
+Fiji,wine_servings,1.0
+Finland,wine_servings,97.0
+France,wine_servings,370.0
+Gabon,wine_servings,59.0
+Gambia,wine_servings,1.0
+Georgia,wine_servings,149.0
+Germany,wine_servings,175.0
+Ghana,wine_servings,10.0
+Greece,wine_servings,218.0
+Grenada,wine_servings,28.0
+Guatemala,wine_servings,2.0
+Guinea,wine_servings,2.0
+Guinea-Bissau,wine_servings,21.0
+Guyana,wine_servings,1.0
+Haiti,wine_servings,1.0
+Honduras,wine_servings,2.0
+Hungary,wine_servings,185.0
+Iceland,wine_servings,78.0
+India,wine_servings,0.0
+Indonesia,wine_servings,0.0
+Iran,wine_servings,0.0
+Iraq,wine_servings,0.0
+Ireland,wine_servings,165.0
+Israel,wine_servings,9.0
+Italy,wine_servings,237.0
+Jamaica,wine_servings,9.0
+Japan,wine_servings,16.0
+Jordan,wine_servings,1.0
+Kazakhstan,wine_servings,12.0
+Kenya,wine_servings,2.0
+Kiribati,wine_servings,1.0
+Kuwait,wine_servings,0.0
+Kyrgyzstan,wine_servings,6.0
+Laos,wine_servings,123.0
+Latvia,wine_servings,62.0
+Lebanon,wine_servings,31.0
+Lesotho,wine_servings,0.0
+Liberia,wine_servings,2.0
+Libya,wine_servings,0.0
+Lithuania,wine_servings,56.0
+Luxembourg,wine_servings,271.0
+Madagascar,wine_servings,4.0
+Malawi,wine_servings,1.0
+Malaysia,wine_servings,0.0
+Maldives,wine_servings,0.0
+Mali,wine_servings,1.0
+Malta,wine_servings,120.0
+Marshall Islands,wine_servings,0.0
+Mauritania,wine_servings,0.0
+Mauritius,wine_servings,18.0
+Mexico,wine_servings,5.0
+Micronesia,wine_servings,18.0
+Monaco,wine_servings,0.0
+Mongolia,wine_servings,8.0
+Montenegro,wine_servings,128.0
+Morocco,wine_servings,10.0
+Mozambique,wine_servings,5.0
+Myanmar,wine_servings,0.0
+Namibia,wine_servings,1.0
+Nauru,wine_servings,8.0
+Nepal,wine_servings,0.0
+Netherlands,wine_servings,190.0
+New Zealand,wine_servings,175.0
+Nicaragua,wine_servings,1.0
+Niger,wine_servings,1.0
+Nigeria,wine_servings,2.0
+Niue,wine_servings,7.0
+Norway,wine_servings,129.0
+Oman,wine_servings,1.0
+Pakistan,wine_servings,0.0
+Palau,wine_servings,23.0
+Panama,wine_servings,18.0
+Papua New Guinea,wine_servings,1.0
+Paraguay,wine_servings,74.0
+Peru,wine_servings,21.0
+Philippines,wine_servings,1.0
+Poland,wine_servings,56.0
+Portugal,wine_servings,339.0
+Qatar,wine_servings,7.0
+South Korea,wine_servings,9.0
+Moldova,wine_servings,18.0
+Romania,wine_servings,167.0
+Russian Federation,wine_servings,73.0
+Rwanda,wine_servings,0.0
+St. Kitts & Nevis,wine_servings,32.0
+St. Lucia,wine_servings,71.0
+St. Vincent & the Grenadines,wine_servings,11.0
+Samoa,wine_servings,24.0
+San Marino,wine_servings,0.0
+Sao Tome & Principe,wine_servings,140.0
+Saudi Arabia,wine_servings,0.0
+Senegal,wine_servings,7.0
+Serbia,wine_servings,127.0
+Seychelles,wine_servings,51.0
+Sierra Leone,wine_servings,2.0
+Singapore,wine_servings,11.0
+Slovakia,wine_servings,116.0
+Slovenia,wine_servings,276.0
+Solomon Islands,wine_servings,1.0
+Somalia,wine_servings,0.0
+South Africa,wine_servings,81.0
+Spain,wine_servings,112.0
+Sri Lanka,wine_servings,0.0
+Sudan,wine_servings,0.0
+Suriname,wine_servings,7.0
+Swaziland,wine_servings,2.0
+Sweden,wine_servings,186.0
+Switzerland,wine_servings,280.0
+Syria,wine_servings,16.0
+Tajikistan,wine_servings,0.0
+Thailand,wine_servings,1.0
+Macedonia,wine_servings,86.0
+Timor-Leste,wine_servings,4.0
+Togo,wine_servings,19.0
+Tonga,wine_servings,5.0
+Trinidad & Tobago,wine_servings,7.0
+Tunisia,wine_servings,20.0
+Turkey,wine_servings,7.0
+Turkmenistan,wine_servings,32.0
+Tuvalu,wine_servings,9.0
+Uganda,wine_servings,0.0
+Ukraine,wine_servings,45.0
+United Arab Emirates,wine_servings,5.0
+United Kingdom,wine_servings,195.0
+Tanzania,wine_servings,1.0
+USA,wine_servings,84.0
+Uruguay,wine_servings,220.0
+Uzbekistan,wine_servings,8.0
+Vanuatu,wine_servings,11.0
+Venezuela,wine_servings,3.0
+Vietnam,wine_servings,1.0
+Yemen,wine_servings,0.0
+Zambia,wine_servings,4.0
+Zimbabwe,wine_servings,4.0
+Afghanistan,total_litres_of_pure_alcohol,0.0
+Albania,total_litres_of_pure_alcohol,4.9
+Algeria,total_litres_of_pure_alcohol,0.7
+Andorra,total_litres_of_pure_alcohol,12.4
+Angola,total_litres_of_pure_alcohol,5.9
+Antigua & Barbuda,total_litres_of_pure_alcohol,4.9
+Argentina,total_litres_of_pure_alcohol,8.3
+Armenia,total_litres_of_pure_alcohol,3.8
+Australia,total_litres_of_pure_alcohol,10.4
+Austria,total_litres_of_pure_alcohol,9.7
+Azerbaijan,total_litres_of_pure_alcohol,1.3
+Bahamas,total_litres_of_pure_alcohol,6.3
+Bahrain,total_litres_of_pure_alcohol,2.0
+Bangladesh,total_litres_of_pure_alcohol,0.0
+Barbados,total_litres_of_pure_alcohol,6.3
+Belarus,total_litres_of_pure_alcohol,14.4
+Belgium,total_litres_of_pure_alcohol,10.5
+Belize,total_litres_of_pure_alcohol,6.8
+Benin,total_litres_of_pure_alcohol,1.1
+Bhutan,total_litres_of_pure_alcohol,0.4
+Bolivia,total_litres_of_pure_alcohol,3.8
+Bosnia-Herzegovina,total_litres_of_pure_alcohol,4.6
+Botswana,total_litres_of_pure_alcohol,5.4
+Brazil,total_litres_of_pure_alcohol,7.2
+Brunei,total_litres_of_pure_alcohol,0.6
+Bulgaria,total_litres_of_pure_alcohol,10.3
+Burkina Faso,total_litres_of_pure_alcohol,4.3
+Burundi,total_litres_of_pure_alcohol,6.3
+Cote d'Ivoire,total_litres_of_pure_alcohol,4.0
+Cabo Verde,total_litres_of_pure_alcohol,4.0
+Cambodia,total_litres_of_pure_alcohol,2.2
+Cameroon,total_litres_of_pure_alcohol,5.8
+Canada,total_litres_of_pure_alcohol,8.2
+Central African Republic,total_litres_of_pure_alcohol,1.8
+Chad,total_litres_of_pure_alcohol,0.4
+Chile,total_litres_of_pure_alcohol,7.6
+China,total_litres_of_pure_alcohol,5.0
+Colombia,total_litres_of_pure_alcohol,4.2
+Comoros,total_litres_of_pure_alcohol,0.1
+Congo,total_litres_of_pure_alcohol,1.7
+Cook Islands,total_litres_of_pure_alcohol,5.9
+Costa Rica,total_litres_of_pure_alcohol,4.4
+Croatia,total_litres_of_pure_alcohol,10.2
+Cuba,total_litres_of_pure_alcohol,4.2
+Cyprus,total_litres_of_pure_alcohol,8.2
+Czech Republic,total_litres_of_pure_alcohol,11.8
+North Korea,total_litres_of_pure_alcohol,0.0
+DR Congo,total_litres_of_pure_alcohol,2.3
+Denmark,total_litres_of_pure_alcohol,10.4
+Djibouti,total_litres_of_pure_alcohol,1.1
+Dominica,total_litres_of_pure_alcohol,6.6
+Dominican Republic,total_litres_of_pure_alcohol,6.2
+Ecuador,total_litres_of_pure_alcohol,4.2
+Egypt,total_litres_of_pure_alcohol,0.2
+El Salvador,total_litres_of_pure_alcohol,2.2
+Equatorial Guinea,total_litres_of_pure_alcohol,5.8
+Eritrea,total_litres_of_pure_alcohol,0.5
+Estonia,total_litres_of_pure_alcohol,9.5
+Ethiopia,total_litres_of_pure_alcohol,0.7
+Fiji,total_litres_of_pure_alcohol,2.0
+Finland,total_litres_of_pure_alcohol,10.0
+France,total_litres_of_pure_alcohol,11.8
+Gabon,total_litres_of_pure_alcohol,8.9
+Gambia,total_litres_of_pure_alcohol,2.4
+Georgia,total_litres_of_pure_alcohol,5.4
+Germany,total_litres_of_pure_alcohol,11.3
+Ghana,total_litres_of_pure_alcohol,1.8
+Greece,total_litres_of_pure_alcohol,8.3
+Grenada,total_litres_of_pure_alcohol,11.9
+Guatemala,total_litres_of_pure_alcohol,2.2
+Guinea,total_litres_of_pure_alcohol,0.2
+Guinea-Bissau,total_litres_of_pure_alcohol,2.5
+Guyana,total_litres_of_pure_alcohol,7.1
+Haiti,total_litres_of_pure_alcohol,5.9
+Honduras,total_litres_of_pure_alcohol,3.0
+Hungary,total_litres_of_pure_alcohol,11.3
+Iceland,total_litres_of_pure_alcohol,6.6
+India,total_litres_of_pure_alcohol,2.2
+Indonesia,total_litres_of_pure_alcohol,0.1
+Iran,total_litres_of_pure_alcohol,0.0
+Iraq,total_litres_of_pure_alcohol,0.2
+Ireland,total_litres_of_pure_alcohol,11.4
+Israel,total_litres_of_pure_alcohol,2.5
+Italy,total_litres_of_pure_alcohol,6.5
+Jamaica,total_litres_of_pure_alcohol,3.4
+Japan,total_litres_of_pure_alcohol,7.0
+Jordan,total_litres_of_pure_alcohol,0.5
+Kazakhstan,total_litres_of_pure_alcohol,6.8
+Kenya,total_litres_of_pure_alcohol,1.8
+Kiribati,total_litres_of_pure_alcohol,1.0
+Kuwait,total_litres_of_pure_alcohol,0.0
+Kyrgyzstan,total_litres_of_pure_alcohol,2.4
+Laos,total_litres_of_pure_alcohol,6.2
+Latvia,total_litres_of_pure_alcohol,10.5
+Lebanon,total_litres_of_pure_alcohol,1.9
+Lesotho,total_litres_of_pure_alcohol,2.8
+Liberia,total_litres_of_pure_alcohol,3.1
+Libya,total_litres_of_pure_alcohol,0.0
+Lithuania,total_litres_of_pure_alcohol,12.9
+Luxembourg,total_litres_of_pure_alcohol,11.4
+Madagascar,total_litres_of_pure_alcohol,0.8
+Malawi,total_litres_of_pure_alcohol,1.5
+Malaysia,total_litres_of_pure_alcohol,0.3
+Maldives,total_litres_of_pure_alcohol,0.0
+Mali,total_litres_of_pure_alcohol,0.6
+Malta,total_litres_of_pure_alcohol,6.6
+Marshall Islands,total_litres_of_pure_alcohol,0.0
+Mauritania,total_litres_of_pure_alcohol,0.0
+Mauritius,total_litres_of_pure_alcohol,2.6
+Mexico,total_litres_of_pure_alcohol,5.5
+Micronesia,total_litres_of_pure_alcohol,2.3
+Monaco,total_litres_of_pure_alcohol,0.0
+Mongolia,total_litres_of_pure_alcohol,4.9
+Montenegro,total_litres_of_pure_alcohol,4.9
+Morocco,total_litres_of_pure_alcohol,0.5
+Mozambique,total_litres_of_pure_alcohol,1.3
+Myanmar,total_litres_of_pure_alcohol,0.1
+Namibia,total_litres_of_pure_alcohol,6.8
+Nauru,total_litres_of_pure_alcohol,1.0
+Nepal,total_litres_of_pure_alcohol,0.2
+Netherlands,total_litres_of_pure_alcohol,9.4
+New Zealand,total_litres_of_pure_alcohol,9.3
+Nicaragua,total_litres_of_pure_alcohol,3.5
+Niger,total_litres_of_pure_alcohol,0.1
+Nigeria,total_litres_of_pure_alcohol,9.1
+Niue,total_litres_of_pure_alcohol,7.0
+Norway,total_litres_of_pure_alcohol,6.7
+Oman,total_litres_of_pure_alcohol,0.7
+Pakistan,total_litres_of_pure_alcohol,0.0
+Palau,total_litres_of_pure_alcohol,6.9
+Panama,total_litres_of_pure_alcohol,7.2
+Papua New Guinea,total_litres_of_pure_alcohol,1.5
+Paraguay,total_litres_of_pure_alcohol,7.3
+Peru,total_litres_of_pure_alcohol,6.1
+Philippines,total_litres_of_pure_alcohol,4.6
+Poland,total_litres_of_pure_alcohol,10.9
+Portugal,total_litres_of_pure_alcohol,11.0
+Qatar,total_litres_of_pure_alcohol,0.9
+South Korea,total_litres_of_pure_alcohol,9.8
+Moldova,total_litres_of_pure_alcohol,6.3
+Romania,total_litres_of_pure_alcohol,10.4
+Russian Federation,total_litres_of_pure_alcohol,11.5
+Rwanda,total_litres_of_pure_alcohol,6.8
+St. Kitts & Nevis,total_litres_of_pure_alcohol,7.7
+St. Lucia,total_litres_of_pure_alcohol,10.1
+St. Vincent & the Grenadines,total_litres_of_pure_alcohol,6.3
+Samoa,total_litres_of_pure_alcohol,2.6
+San Marino,total_litres_of_pure_alcohol,0.0
+Sao Tome & Principe,total_litres_of_pure_alcohol,4.2
+Saudi Arabia,total_litres_of_pure_alcohol,0.1
+Senegal,total_litres_of_pure_alcohol,0.3
+Serbia,total_litres_of_pure_alcohol,9.6
+Seychelles,total_litres_of_pure_alcohol,4.1
+Sierra Leone,total_litres_of_pure_alcohol,6.7
+Singapore,total_litres_of_pure_alcohol,1.5
+Slovakia,total_litres_of_pure_alcohol,11.4
+Slovenia,total_litres_of_pure_alcohol,10.6
+Solomon Islands,total_litres_of_pure_alcohol,1.2
+Somalia,total_litres_of_pure_alcohol,0.0
+South Africa,total_litres_of_pure_alcohol,8.2
+Spain,total_litres_of_pure_alcohol,10.0
+Sri Lanka,total_litres_of_pure_alcohol,2.2
+Sudan,total_litres_of_pure_alcohol,1.7
+Suriname,total_litres_of_pure_alcohol,5.6
+Swaziland,total_litres_of_pure_alcohol,4.7
+Sweden,total_litres_of_pure_alcohol,7.2
+Switzerland,total_litres_of_pure_alcohol,10.2
+Syria,total_litres_of_pure_alcohol,1.0
+Tajikistan,total_litres_of_pure_alcohol,0.3
+Thailand,total_litres_of_pure_alcohol,6.4
+Macedonia,total_litres_of_pure_alcohol,3.9
+Timor-Leste,total_litres_of_pure_alcohol,0.1
+Togo,total_litres_of_pure_alcohol,1.3
+Tonga,total_litres_of_pure_alcohol,1.1
+Trinidad & Tobago,total_litres_of_pure_alcohol,6.4
+Tunisia,total_litres_of_pure_alcohol,1.3
+Turkey,total_litres_of_pure_alcohol,1.4
+Turkmenistan,total_litres_of_pure_alcohol,2.2
+Tuvalu,total_litres_of_pure_alcohol,1.0
+Uganda,total_litres_of_pure_alcohol,8.3
+Ukraine,total_litres_of_pure_alcohol,8.9
+United Arab Emirates,total_litres_of_pure_alcohol,2.8
+United Kingdom,total_litres_of_pure_alcohol,10.4
+Tanzania,total_litres_of_pure_alcohol,5.7
+USA,total_litres_of_pure_alcohol,8.7
+Uruguay,total_litres_of_pure_alcohol,6.6
+Uzbekistan,total_litres_of_pure_alcohol,2.4
+Vanuatu,total_litres_of_pure_alcohol,0.9
+Venezuela,total_litres_of_pure_alcohol,7.7
+Vietnam,total_litres_of_pure_alcohol,2.0
+Yemen,total_litres_of_pure_alcohol,0.1
+Zambia,total_litres_of_pure_alcohol,2.5
+Zimbabwe,total_litres_of_pure_alcohol,4.7
