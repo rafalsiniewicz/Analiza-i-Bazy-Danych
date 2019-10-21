@@ -1,0 +1,9 @@
+SELECT 
+customer.first_name, customer.last_name, country.country_id, country.country, city.city_id, address.address_id
+FROM 
+country
+left join city on country.country_id = city.country_id
+left join address on city.city_id = address.city_id
+left join customer on address.address_id = customer.address_id
+WHERE
+country = 'Poland' or country = 'Bangladesh' or country = 'Nigeria'
