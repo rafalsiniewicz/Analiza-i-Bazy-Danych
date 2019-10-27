@@ -1,0 +1,8 @@
+SELECT
+distinct category.name, category.category_id
+from rental
+full outer join inventory on inventory.inventory_id = rental.inventory_id
+full outer join film_category on inventory.film_id = film_category.film_id
+full outer join category on category.category_id = film_category.category_id
+ 
+
