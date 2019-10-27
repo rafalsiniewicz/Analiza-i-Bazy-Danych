@@ -6,4 +6,16 @@ left join city on country.country_id = city.country_id
 left join address on city.city_id = address.city_id
 left join customer on address.address_id = customer.address_id
 WHERE
-country = 'Poland' or country = 'Bangladesh' or country = 'Nigeria'
+country = 'Poland' or country = 'Bangladesh' or country = 'Nigeria';
+
+--------------------------------------------------------------------
+------------------------------ OR ----------------------------------
+--------------------------------------------------------------------
+
+SELECT
+customer_id, first_name, last_name, country.country
+from customer
+full outer join address on customer.address_id = address.address_id
+full outer join city on  address.city_id = city.city_id
+full outer join country on city.country_id = country.country_id
+where country.country = 'Poland' or country.country = 'Nigeria' or country.country = 'Bangladesh'
