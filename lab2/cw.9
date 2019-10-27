@@ -1,0 +1,7 @@
+SELECT
+*
+from staff
+full outer join address on staff.address_id = address.address_id
+full outer join city on city.city_id = address.city_id
+full outer join country on country.country_id = city.country_id
+where staff.staff_id is not null and country = 'Spain' or country = 'Argentina'
