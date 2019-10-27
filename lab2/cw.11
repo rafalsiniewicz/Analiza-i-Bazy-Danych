@@ -1,0 +1,13 @@
+SELECT
+distinct category.name, category.category_id, country.country
+from category
+full outer join film_category on film_category.category_id = category.category_id
+full outer join inventory on inventory.film_id = film_category.film_id
+full outer join store on store.store_id = inventory.store_id
+full outer join address on address.address_id = store.address_id
+full outer join city on city.city_id = address.city_id
+full outer join country on country.country_id = city.country_id
+where country is not null and country = 'United States'
+
+ 
+
