@@ -1,0 +1,9 @@
+Plik drinks.csv to oryginalne dane w formacie csv utworzone na podstawie danych z: https://fivethirtyeight.com/features/dear-mona-followup-where-do-people-drink-the-most-beer-wine-and-spirits/
+Link do oryginalnego pliku: https://github.com/fivethirtyeight/data/tree/master/alcohol-consumption
+
+Składa sie z kolumn:
+- country
+- beer_servings
+- spirit_servings
+- wine_servings
+- total_litres_of_pure_alcohol
