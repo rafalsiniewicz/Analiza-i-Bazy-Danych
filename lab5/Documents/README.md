@@ -22,9 +22,9 @@ W katalogu "Command Files" znajduja sie:
 - pliki zarzadzajace danymi: lab5.py oraz lab5_cw2.py
 
 ###### Instrukcja
-Żeby przetworzyć dane i uzyskać dane wyjściowe należy uruchomić plik main.py w katalogu, w którym znajdują się pliki z danymi.
-Zeby uzyskac histogramy, wykresy i inne potrzebne informacje z pliku result_drinks.csv nalezy uruchomic plik lab5.py
-Zeby uzyskac szczegolowe informacje nt. najwiekszej roznicy temperatur oraz wartosci temp. najblizszych wartosci sredniej trzeba uruchomic plik lab5_cw2.py
+- Żeby przetworzyć dane i uzyskać dane wyjściowe należy uruchomić plik main.py w katalogu, w którym znajdują się pliki z danymi.
+- Zeby uzyskac histogramy, wykresy i inne potrzebne informacje z pliku result_drinks.csv nalezy uruchomic plik lab5.py
+- Zeby uzyskac szczegolowe informacje nt. najwiekszej roznicy temperatur oraz wartosci temp. najblizszych wartosci sredniej trzeba uruchomic plik lab5_cw2.py
 
 
 
