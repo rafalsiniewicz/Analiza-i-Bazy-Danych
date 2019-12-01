@@ -6,3 +6,10 @@ Składa sie z kolumn:
 - type
 - litres
 
+W katalogu Command files znajduja sie dwa pliki .pdf z wynikami dla zad1 i zad2 z lab5. 
+W pliku bazy_danych_lab5.pdf znajduja sie informacje uzyskane dla danych result_drinks.csv, tj. wywolanie funkcji describe(), 
+info(), wykresy scatter plot, histogramy dla beer_servings, wine_servings, spirit_serving. 
+W pliku lab5_cw2_output.pdf znajduja sie wyniki prezentujace dane na temat dnia w ktorym roznica tmax i tmin byla najwieksza 
+oraz dane na temat daty, kiedy wartosc tmin oraz tmax byly najblizsze odpowiednio tmin.mean() oraz tmax.mean() kiedy wartosci
+te byly najblizsze srednim wartosciom dla tych danych.
+
