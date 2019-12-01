@@ -7,3 +7,7 @@ Składa sie z kolumn:
 - spirit_servings
 - wine_servings
 - total_litres_of_pure_alcohol
+
+
+Plik weather.txt to orignalne dane, sklada sie z kolumn: id, data jako rok i miesiac oraz poszczegolne dni w miesiacu
+
