@@ -21,6 +21,6 @@ W katalogu "Command Files" znajduja sie:
 - pliki przetwarzajace dane: main.py
 
 ###### Instrukcja
-Żeby przetworzyć dane i uzyskaćdane wyjściowe należy uruchomić plik main.py w katalogu, w którym znajdują się pliki z danymi
+Żeby przetworzyć dane i uzyskać dane wyjściowe należy uruchomić plik main.py w katalogu, w którym znajdują się pliki z danymi
 
 
